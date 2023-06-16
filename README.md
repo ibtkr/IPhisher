@@ -1,6 +1,6 @@
 # IPhisher
 Instagram Phisher
-Aşağıdaki HTML ve PHP kod örneği, Instagram klonu olan giriş yap ve kayıt ol sayfalarını oluşturmanıza yardımcı olacaktır. Bu örnekte, kullanıcı adı ve şifre alanlarına girilen veriler, sunucunuzdaki `pw.txt` dosyasına kaydedilecektir. Ancak, bu sadece bir örnektir ve gerçek bir uygulama için daha güvenli bir yöntem kullanmanız önerilir.
+Aşağıdaki kod örneği, Instagram klonu olan giriş yap ve kayıt ol sayfalarını oluşturmanıza yarar. Bu örnekte, kullanıcı adı ve şifre alanlarına girilen veriler size ait sunucudaki daha önce oluşturduğunuz `pw.txt` dosyasına kaydedilecek.
 
 HTML (index.html):
 ```html
